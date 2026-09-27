@@ -1,7 +1,7 @@
 {
  "spider": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/clh1/main/o.jar",
  "sites": [
- {
+  {
    "key": "naixiang",
    "name": "🎬全网｜影视点播🎬1",
    "type": 1,
@@ -57,7 +57,7 @@
    "_origin": "hajimi/kstore",
    "group": "采集站"
   },
-   {
+  {
    "api": "https://www.mdzyapi.com/api.php/provide/vod/",
    "key": "77791ef659e8282af587e24e7b0c18a5",
    "name": "🎬全网｜影视采集🎬1",
@@ -171,7 +171,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
-
   {
    "key": "jisu",
    "name": "️✈️极速采集",
@@ -285,7 +284,6 @@
    "_origin": "bocai/x4pro",
    "group": "采集站"
   },
- 
   {
    "key": "csp_xml_xinlang",
    "name": "❤新浪资源",
@@ -438,7 +436,6 @@
    "_origin": "bocai/x4pro",
    "group": "采集站"
   },
- 
   {
    "key": "zy_youzhiziyuan",
    "name": "接口┃优质资源",
@@ -520,7 +517,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
- 
   {
    "key": "jinyingzy.com",
    "name": "🎬金鹰点播",
@@ -553,7 +549,6 @@
    "searchable": 1,
    "_origin": "feishu-sync"
   },
-
   {
    "key": "baofengyingshi",
    "name": "[590ms|5] 暴风影视",
@@ -643,7 +638,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
-
   {
    "key": "api_29",
    "name": "TV-电影天堂资源",
@@ -655,7 +649,6 @@
    "_origin": "juhe-tvapi",
    "group": "采集站"
   },
-
   {
    "key": "api_24",
    "name": "TV-最大点播",
@@ -678,7 +671,6 @@
    "_origin": "juhe-tvapi",
    "group": "采集站"
   },
- 
   {
    "key": "ukuziyuan-2",
    "name": "[322ms|我的] U酷资源",
@@ -813,7 +805,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
-
   {
    "key": "hongniu",
    "name": "🐂 红牛",
@@ -1043,7 +1034,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
- 
   {
    "key": "dianyingtiantang-3",
    "name": "️天堂┃采集",
@@ -1079,7 +1069,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
-  
   {
    "key": "site_1787075480731",
    "name": "豪华",
@@ -1136,7 +1125,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
- 
   {
    "key": "jianancaiji",
    "name": "影视 • 建安",
@@ -1165,7 +1153,6 @@
    "_origin": "juhe-tvapi",
    "group": "采集站"
   },
-
   {
    "key": "zy360",
    "name": "360资源",
@@ -1200,7 +1187,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
- 
   {
    "key": "didizy.com",
    "name": "♥滴滴(直连)",
@@ -1211,7 +1197,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
-
   {
    "key": "site_1788070701483",
    "name": "电影天堂",
@@ -1234,7 +1219,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
- 
   {
    "key": "xinlangyingshi",
    "name": "💝分享新浪",
@@ -1280,7 +1264,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
- 
   {
    "key": "mdzy",
    "name": "魔都资源",
@@ -1314,7 +1297,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
-
   {
    "key": "suboziyuan",
    "name": "[322ms|我的] 速播资源",
@@ -1347,7 +1329,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
- 
   {
    "key": "site_1787074438064",
    "name": "新浪云",
@@ -1415,7 +1396,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
-
   {
    "key": "maoyanyingshi",
    "name": "[590ms|5] 猫眼影视",
@@ -1428,7 +1408,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
- 
   {
    "key": "liangziyingshi-2",
    "name": "[590ms|5] 量子影视",
@@ -1451,7 +1430,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
- 
   {
    "key": "drpy_js_douban-8",
    "name": "🔥量子🔥",
@@ -1496,7 +1474,6 @@
    "group": "采集站",
    "_origin": "feishu-sync"
   },
-
   {
    "key": "moduzy",
    "name": "魔都影视",
@@ -1756,17 +1733,6 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "kulaopachongyingshi",
-   "name": "☁云霄丨爬虫丨影视",
-   "type": 1,
-   "api": "https://dy.7772888.xyz/api.php/tvbox",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "group": "采集站",
-   "_origin": "feishu-sync"
-  },
-  {
    "key": "csp_xml_wujin",
    "name": "❤无尽资源",
    "type": 1,
@@ -1869,14 +1835,6 @@
    ],
    "group": "采集站",
    "_origin": "feishu-sync"
-  },
-  {
-   "key": "*99",
-   "name": "*99",
-   "type": 1,
-   "api": "http://99zy.pw/api.php/provide/vod/",
-   "_origin": "auto/22-115s",
-   "group": "采集站"
   },
   {
    "key": "tantan",
@@ -2326,16 +2284,6 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "rebaziyuan",
-   "name": "*热巴资源",
-   "type": 1,
-   "api": "http://reba.aishunxs.com/api.php/provide/vod/",
-   "searchable": 0,
-   "quickSearch": 0,
-   "_origin": "auto/22-115s",
-   "group": "采集站"
-  },
-  {
    "api": "https://caiji.dyttzyapi.com/api.php/provide/vod",
    "key": "a758bb61ad33c8750290eb6483cb5fd5",
    "name": "77-电影天堂*",
@@ -2418,16 +2366,6 @@
    ],
    "group": "采集站",
    "_origin": "feishu-sync"
-  },
-  {
-   "key": "xjjzyapi.com",
-   "name": "美少女",
-   "type": 1,
-   "api": "https://xjjzyapi.com/cjapi/sda/vod/?ac=list",
-   "searchable": 1,
-   "filterable": 1,
-   "_origin": "auto/1-84s",
-   "group": "直连点播"
   },
   {
    "key": "meishaonv",
@@ -2567,17 +2505,6 @@
    "group": "成人"
   },
   {
-   "key": "99zywcj.com",
-   "name": "成人16",
-   "type": 0,
-   "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-   "quickSearch": 1,
-   "searchable": 1,
-   "filterable": 1,
-   "_origin": "auto/11-74s",
-   "group": "成人"
-  },
-  {
    "key": "010aizy.com",
    "name": "成人21",
    "type": 0,
@@ -2600,43 +2527,10 @@
    "group": "成人"
   },
   {
-   "key": "987caiji.com",
-   "name": "成人34",
-   "type": 0,
-   "api": "http://www.987caiji.com/api/max.php",
-   "quickSearch": 1,
-   "searchable": 1,
-   "filterable": 1,
-   "_origin": "auto/11-74s",
-   "group": "成人"
-  },
-  {
    "key": "siwazyw.cc",
    "name": "成人55",
    "type": 1,
    "api": "https://siwazyw.cc/api.php/provide/vod/",
-   "quickSearch": 1,
-   "searchable": 1,
-   "filterable": 1,
-   "_origin": "auto/11-74s",
-   "group": "成人"
-  },
-  {
-   "key": "api.yinwoapi.com",
-   "name": "成人69",
-   "type": 1,
-   "api": "https://api.yinwoapi.com/api.php/provide/vod/",
-   "quickSearch": 1,
-   "searchable": 1,
-   "filterable": 1,
-   "_origin": "auto/11-74s",
-   "group": "成人"
-  },
-  {
-   "key": "cj.apiabzy.com",
-   "name": "成人72",
-   "type": 1,
-   "api": "http://cj.apiabzy.com/api.php/provide/vod/",
    "quickSearch": 1,
    "searchable": 1,
    "filterable": 1,
@@ -2795,7 +2689,6 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://yydsys.top/duo/js/qzys.js",
    "group": "其他",
    "_origin": "feishu-sync"
   },
@@ -2848,19 +2741,6 @@
    "ext": {
     "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
    },
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "jianjian-3",
-   "name": "🐭贱贱┃P2P",
-   "type": 3,
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1,
-   "playerType": "1",
-   "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-   "ext": "https://notabug.org/fantaiying/ext/raw/main/jp.js",
    "group": "其他",
    "_origin": "feishu-sync"
   },
@@ -3041,20 +2921,6 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "18amao",
-   "name": "18A貓",
-   "type": 3,
-   "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/18a_open.js",
-   "searchable": 1,
-   "recordable": 0,
-   "style": {
-    "type": "rect",
-    "ratio": 1.485
-   },
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
    "key": "renrenyingshi-3",
    "name": "[367ms|直播] ♨️人人｜影视",
    "type": 3,
@@ -3063,22 +2929,6 @@
    "quickSearch": 1,
    "changeable": 1,
    "filterable": 1,
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "drpys_guipianzhijia",
-   "name": "[367ms|直播] 鬼片之家",
-   "type": 3,
-   "style": {
-    "type": "rect",
-    "ratio": 1.485
-   },
-   "api": "https://fastlink.cokey.xyz/f/AOxWum/%E9%AC%BC%E7%89%87%E4%B9%8B%E5%AE%B6.js",
-   "searchable": 1,
-   "filterable": 0,
-   "quickSearch": 0,
-   "ext": "",
    "group": "其他",
    "_origin": "feishu-sync"
   },
@@ -3157,18 +3007,6 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "kulaorebopy",
-   "name": "☁云霄丨热播丨PY",
-   "type": 3,
-   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/热播APP.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "timeout": 60,
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
    "key": "kulaolieshoupy",
    "name": "☁云霄丨猎手丨PY",
    "api": "https://mpimg.cn/down.php/60fab5ff33f0b0fd88f099ae3be708bf.py",
@@ -3187,27 +3025,6 @@
    "quickSearch": 1,
    "searchable": 1,
    "type": 3,
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "yunduo",
-   "name": "☁️┃云朵┃影视",
-   "type": 3,
-   "api": "https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/py/yunduo.py",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0,
-   "changeable": 0,
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "WS",
-   "name": "⚠️┃威视┃影视",
-   "type": 3,
-   "api": "https://yydsys.top/duo/py/威视TV.py",
-   "searchable": 1,
    "group": "其他",
    "_origin": "feishu-sync"
   },
@@ -3311,37 +3128,6 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "huashu",
-   "name": "🌳┃花树┃影视",
-   "type": 3,
-   "api": "https://yydsys.top/duo/py/华数TV.py",
-   "searchable": 1,
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "fengye",
-   "name": "🍁┃枫叶┃影视",
-   "type": 3,
-   "api": "https://yydsys.top/duo/py/枫叶.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "changeable": 1,
-   "playable": 1,
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "wawa",
-   "name": "🍼┃哇哇┃影视",
-   "type": 3,
-   "api": "https://yydsys.top/duo/py/哇哇APP.py",
-   "searchable": 1,
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
    "key": "ddys-2",
    "name": "🎞 低端影视",
    "type": 3,
@@ -3356,40 +3142,6 @@
     "综艺",
     "纪录片"
    ],
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "jie",
-   "name": "🐌┃视界┃秒播",
-   "type": 3,
-   "api": "https://yydsys.top/duo/js/jys.js",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0,
-   "changeable": 0,
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "KK",
-   "name": "👌┃欧克┃影视",
-   "type": 3,
-   "api": "https://yydsys.top/duo/py/可可影视.py",
-   "searchable": 1,
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "csp_lieshou",
-   "name": "💖分享猎手",
-   "type": 3,
-   "searchable": 1,
-   "changeable": 1,
-   "quickSearch": 1,
-   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/LSYS.py",
-   "playerType": 2,
-   "filterable": 1,
    "group": "其他",
    "_origin": "feishu-sync"
   },
@@ -3439,16 +3191,6 @@
    "changeable": 0,
    "filterable": 0,
    "timeout": 60,
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "api": "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666",
-   "filterable": 0,
-   "key": "2070335664787820544",
-   "name": "💝分享热播",
-   "searchable": 1,
-   "type": 4,
    "group": "其他",
    "_origin": "feishu-sync"
   },
@@ -3516,16 +3258,6 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "kulaomgyingshi",
-   "name": "☁云霄丨MG丨影视",
-   "type": 3,
-   "playerType": "2",
-   "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-   "ext": "https://tvbox.catvod.com/js/mgtv.js",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
    "key": "kulaoweishipy",
    "name": "☁云霄丨威士丨PY",
    "type": 3,
@@ -3539,7 +3271,6 @@
    "name": "☁云霄丨看剧丨影视",
    "type": 3,
    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
-   "ext": "http://43.248.117.123:4680",
    "group": "其他",
    "_origin": "feishu-sync"
   },
@@ -3572,7 +3303,6 @@
    "name": "♨️JD｜免扫",
    "type": 3,
    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jd4k.js",
-   "ext": "https://qp.69mini.com/api.php/app/",
    "group": "其他",
    "_origin": "feishu-sync"
   },
@@ -4538,24 +4268,6 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "drpy_js_360yingshi-5",
-   "name": "🧡┃360┃官源",
-   "type": 3,
-   "api": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js",
-   "ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/360%E5%BD%B1%E8%A7%86.js",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "jianpian-5",
-   "name": "🧲┃荐片┃磁力",
-   "type": 3,
-   "api": "http://rihou.vip:55/lib/drpy2.min.js",
-   "ext": "http://rihou.vip:55/lib/jianpian.js",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
    "key": "qukanba-2",
    "name": "🫣看吧┃动漫┃蓝光",
    "type": 3,
@@ -4569,422 +4281,6 @@
    "name": "123|推送",
    "type": 4,
    "api": "http://38.76.197.172:15151/api.php?type=123",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "t4-heihu",
-   "name": "[1416ms|金鹰] 🐻黑狐┃影视",
-   "type": 4,
-   "api": "https://catbox.n13.club/t4/heihu.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-bmtv",
-   "name": "[313ms|00000] B站-MTV(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php?id=bMTV",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-mybili",
-   "name": "[313ms|00000] B站-mybili(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php?id=我的哔哩",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "t4-zhongyi",
-   "name": "[313ms|00000] B站-中医(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php?id=中医",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "t4-ertongsiwei",
-   "name": "[313ms|00000] B站-儿童思维(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php?id=儿童思维",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "t4-ertongpinyin",
-   "name": "[313ms|00000] B站-儿童拼音(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php?id=儿童拼音",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "t4-ertongyingbi",
-   "name": "[313ms|00000] B站-儿童硬笔(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php?id=儿童硬笔",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "t4-heji",
-   "name": "[313ms|00000] B站-合集(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php?id=合集",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-bili",
-   "name": "[313ms|00000] B站-哔哩(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "t4-bilitaocan1",
-   "name": "[313ms|00000] B站-哔哩套餐1(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php?id=哔哩套餐1",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-waiyu",
-   "name": "[313ms|00000] B站-外语(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php?id=waiyu",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "t4-xiaodengtakexue",
-   "name": "[313ms|00000] B站-小灯塔科学(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php?id=小灯塔科学",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "t4-qiuleiheji",
-   "name": "[313ms|00000] B站-球类合集(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php?id=球类合集",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-Blixs",
-   "name": "[313ms|00000] B站-相声(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php?id=Blixs",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "t4-meishi",
-   "name": "[313ms|00000] B站-美食(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php?id=美食",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "t4-ruanjianjiaocheng",
-   "name": "[313ms|00000] B站-软件教程(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php?id=软件教程",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-bili4",
-   "name": "[313ms|00000] B站-高中(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/bili.php?id=高中课堂",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "rrys",
-   "name": "[313ms|00000] 人人影视",
-   "type": 4,
-   "api": "https://catbox.n13.club/18/人人影视.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-blh",
-   "name": "[313ms|00000] 儿童-贝乐虎(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/beilehu.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-cntv",
-   "name": "[313ms|00000] 其他-央视2(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/cntv.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-jijiu",
-   "name": "[313ms|00000] 其他-急救(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/jijiu.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-suishenting",
-   "name": "[313ms|00000] 其他-随身听(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/suishenting.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "yangshi",
-   "name": "[313ms|00000] 央视影视",
-   "type": 4,
-   "api": "https://catbox.n13.club/18/央视影视.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "yingtan",
-   "name": "[313ms|00000] 影探影视",
-   "type": 4,
-   "api": "https://catbox.n13.club/18/影探影视.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-hg",
-   "name": "[313ms|00000] 影视-HG(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/hg.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-lunbo",
-   "name": "[313ms|00000] 影视-YY轮播(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/yylb.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-qiyi",
-   "name": "[313ms|00000] 影视-七壹APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/七壹APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-youtu",
-   "name": "[313ms|00000] 影视-优兔APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/优兔APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "t4-wawa",
-   "name": "[313ms|00000] 影视-哇哇(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/哇哇影视.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-xiaozhu",
-   "name": "[313ms|00000] 影视-小猪APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/小猪APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-shuzi",
-   "name": "[313ms|00000] 影视-数字APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/数字APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-juzi",
-   "name": "[313ms|00000] 影视-橘子APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/橘子APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-duanyou",
-   "name": "[313ms|00000] 影视-段友APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/段友APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-huomao",
-   "name": "[313ms|00000] 影视-火猫APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/火猫APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-linghu",
-   "name": "[313ms|00000] 影视-灵虎APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/灵虎APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-aiying",
-   "name": "[313ms|00000] 影视-爱盈APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/爱盈APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-wangzi",
-   "name": "[313ms|00000] 影视-王子APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/王子APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-mifun",
-   "name": "[313ms|00000] 影视-米饭(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/mifun.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-yuanmeng",
-   "name": "[313ms|00000] 影视-缘梦APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/缘梦APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-laoying",
-   "name": "[313ms|00000] 影视-老鹰APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/老鹰APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-huaxiaozhu111",
-   "name": "[313ms|00000] 影视-花小猪(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/huaxiaozhu.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-jianpian2",
-   "name": "[313ms|00000] 影视-荐片2(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/jianpian2.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-lanying",
-   "name": "[313ms|00000] 影视-蓝鹰APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/蓝鹰APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-huya",
-   "name": "[313ms|00000] 影视-虎牙经典(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/huya.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-caiji",
-   "name": "[313ms|00000] 影视-采集(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/caiji.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-jinpai111",
-   "name": "[313ms|00000] 影视-金牌(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/jinpai.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "t4-jinpaiyingshi",
-   "name": "[313ms|00000] 影视-金牌(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/t9/金牌影视.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-jinpai",
-   "name": "[313ms|00000] 影视-金牌APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/金牌APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-yizhan",
-   "name": "[313ms|00000] 影视-驿站APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/驿站APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-guipian360",
-   "name": "[313ms|00000] 影视-鬼片之家(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/guipian360.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "T4-heimao",
-   "name": "[313ms|00000] 影视-黑猫APP(T4)",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/黑猫APP.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "guaziyingshi-2",
-   "name": "[313ms|00000] 瓜子影视",
-   "type": 4,
-   "api": "https://catbox.n13.club/ai/瓜子影视.php",
    "group": "其他",
    "_origin": "feishu-sync"
   },
@@ -5021,14 +4317,6 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "xingchenyingyuan-2",
-   "name": "[367ms|直播] 🪐星辰",
-   "type": 3,
-   "api": "http://rihou.cc:88/js/星辰影院.js",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
    "key": "4k-2",
    "name": "☁云霄4k",
    "type": 3,
@@ -5061,18 +4349,6 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "kulaodushejs",
-   "name": "☁云霄丨毒舌丨JS",
-   "type": 3,
-   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/laozhang/毒舌影视.js",
-   "style": {
-    "type": "rect",
-    "ratio": 1.33
-   },
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
    "key": "kulaoguazibeiyong",
    "name": "☁云霄丨瓜子丨备用",
    "type": 3,
@@ -5085,18 +4361,6 @@
    "name": "☁云霄丨电视丨直播",
    "type": 3,
    "api": "https://jsnz.pages.dev/f/f05e3b39.js",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "kulaoduanmupy",
-   "name": "☁云霄丨端木丨PY",
-   "type": 3,
-   "api": "https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/py/端木.py",
-   "style": {
-    "type": "rect",
-    "ratio": 1.33
-   },
    "group": "其他",
    "_origin": "feishu-sync"
   },
@@ -5207,22 +4471,6 @@
    "_origin": "feishu-sync"
   },
   {
-   "key": "php_dianyingtiantang",
-   "name": "🍎 电影天堂(PHP)",
-   "type": 4,
-   "api": "https://php.doube.eu.org/spider/php/电影天堂.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "php_feifanziyuan",
-   "name": "🍎 非凡资源(PHP)",
-   "type": 4,
-   "api": "https://php.doube.eu.org/spider/php/非凡资源.php",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
    "key": "dbokutv_key",
    "name": "🐼｜独播库",
    "type": 3,
@@ -5257,32 +4505,6 @@
    "name": "💝分享火云",
    "type": 3,
    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/hy.js",
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "duboku_async",
-   "name": "💝分享独播",
-   "type": 3,
-   "api": "https://gh-proxy.org/https:/raw.githubusercontent.com/alantang1977/X/main/laozhang/独播库.js",
-   "style": {
-    "type": "rect",
-    "ratio": 1.33
-   },
-   "changeable": 1,
-   "group": "其他",
-   "_origin": "feishu-sync"
-  },
-  {
-   "key": "jianpiancaiji",
-   "name": "💝分享荐片",
-   "type": 3,
-   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/laozhang/荐片.js",
-   "style": {
-    "type": "rect",
-    "ratio": 1.33
-   },
-   "changeable": 1,
    "group": "其他",
    "_origin": "feishu-sync"
   },
@@ -5323,7 +4545,7 @@
   }
  ],
  "lives": [
- {
+  {
    "name": "YY轮播",
    "type": 0,
    "url": "https://sub.ottiptv.cc/yylunbo.m3u"
@@ -5352,7 +4574,7 @@
    "type": 0,
    "url": "https://gh-proxy.org/raw.githubusercontent.com/mlzlzj/TV/main/output/result.m3u"
   },
-   {
+  {
    "name": "LIVEfl",
    "type": 0,
    "url": "https://gh.halonice.com/raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u",
@@ -5364,15 +4586,14 @@
    "name": "IPTV-IPv4",
    "url": "https://gh.halonice.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
   },
-   {
+  {
    "name": "myIPTV-IPv4",
    "url": "https://gh.halonice.com/raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u"
   },
-   {
+  {
    "name": "YueChan",
    "url": "https://gh.halonice.com/raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
   },
-  
   {
    "name": "南风直播源",
    "type": 0,
@@ -5382,7 +4603,6 @@
    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
    "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
- 
   {
    "name": "卡卡西线路",
    "type": 0,
@@ -5407,7 +4627,6 @@
    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
    "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
- 
   {
    "name": "zbefine源",
    "type": 0,
@@ -5423,7 +4642,6 @@
    "ua": "okhttp/3.15,AptvPlayer/1.4.0",
    "timeout": 10
   },
-
   {
    "name": "TianmuTNT",
    "type": 0,
@@ -5433,7 +4651,6 @@
    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
    "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
-
   {
    "name": "LIVE_fan",
    "type": 0,
@@ -5442,14 +4659,12 @@
    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
    "logo": "https://live.fanmingming.com/tv/{name}.png"
   },
-
   {
    "name": "经典电视剧",
    "type": 0,
    "url": "https://wp.kayyw.com/f/XOpgIZ/%E7%BB%8F%E5%85%B8%E7%94%B5%E8%A7%86%E5%89%A7.txt",
    "timeout": 10
   },
- 
   {
    "name": "王子直播",
    "type": 0,
@@ -5469,7 +4684,6 @@
    "ua": "okhttp/3.15,AptvPlayer/1.4.1,Mozilla/5.0",
    "playerType": 2
   },
- 
   {
    "name": "🐬综合直播 海豚影视交流群 TG：@hshsjk9",
    "type": 0,
@@ -5483,7 +4697,6 @@
    "ua": "okhttp",
    "url": "http://iptv.4666888.xyz/FYTV.txt"
   },
- 
   {
    "name": "🐬地方直播2",
    "type": 0,
@@ -5496,14 +4709,12 @@
    "ua": "okhttp/5.3.2",
    "url": "https://gh-proxy.org/raw.githubusercontent.com/wujiangliu/live-sources/main/bhmb.m3u"
   },
-
   {
    "name": "zbds",
    "type": 0,
    "url": "https://live.zbds.top/tv/iptv4.m3u",
    "playerType": 2
   },
- 
   {
    "name": "📺简单TV(EXO)",
    "type": 0,
@@ -5531,7 +4742,7 @@
     "User-Agent": "okhttp/5.1.0"
    }
   },
- {
+  {
    "name": "Git组转单",
    "playerType": 1,
    "type": 0,
@@ -5547,7 +4758,6 @@
    "logo": "https://logo.wyfc.qzz.io/{name}.png",
    "url": "https://v6.gh-proxy.org/https://github.com/Supprise0901/TVBox_live/blob/main/live.txt"
   },
-
   {
    "name": "kakaxi组转单",
    "playerType": 1,
@@ -5556,7 +4766,6 @@
    "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
    "logo": "https://logo.wyfc.qzz.io/{name}.png"
   },
- 
   {
    "name": "广西电信",
    "playerType": 1,
@@ -5565,7 +4774,6 @@
    "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
    "logo": "https://logo.wyfc.qzz.io/{name}.png"
   },
-
   {
    "name": "广西联通",
    "playerType": 1,
@@ -5574,7 +4782,6 @@
    "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
    "logo": "https://logo.wyfc.qzz.io/{name}.png"
   },
-
   {
    "name": "日后",
    "type": 0,
@@ -5584,7 +4791,6 @@
    "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
    "logo": "https://epg.112114.eu.org/logo/{name}.png"
   },
-
   {
    "name": "EPG直播",
    "type": "0",
@@ -5593,7 +4799,6 @@
    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
    "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
- 
   {
    "name": "ZBDS",
    "type": 0,
@@ -5601,7 +4806,6 @@
    "timeout": 10,
    "playerType": 2
   },
-  
   {
    "name": "简单TV",
    "type": 0,
@@ -5609,7 +4813,6 @@
    "timeout": 10,
    "playerType": 2
   },
-
   {
    "name": "Guovin·央视",
    "type": 0,
@@ -5634,7 +4837,7 @@
    "url": "https://gh.halonice.com/raw.githubusercontent.com/hebijunge/tvbox-config/main/lives/live_other.txt",
    "epg": "https://live.fanmingming.cn/e.xml"
   }
-  ],
+ ],
  "parses": [
   {
    "name": "Web聚合",
@@ -5809,41 +5012,6 @@
    "url": "https://jx.m3u8.pw/?url="
   },
   {
-   "name": "肥猫最可爱",
-   "type": 1,
-   "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
-   "ext": {
-    "flag": [
-     "qq",
-     "腾讯",
-     "qiyi",
-     "爱奇艺",
-     "奇艺",
-     "youku",
-     "优酷",
-     "tucheng",
-     "sohu",
-     "搜狐",
-     "letv",
-     "乐视",
-     "mgtv",
-     "芒果",
-     "tnmb",
-     "seven",
-     "yzm",
-     "aliyun",
-     "RJuMao",
-     "bilibili",
-     "1905",
-     "xinvip",
-     "XAL",
-     "qiqi",
-     "XALS",
-     "YuMi-vip"
-    ]
-   }
-  },
-  {
    "name": "VIP",
    "type": 0,
    "url": "https://6.789bh.com/?url=",
@@ -5871,43 +5039,6 @@
     "header": {
      "User-Agent": "okhttp/4.1.0"
     }
-   }
-  },
-  {
-   "name": "全民",
-   "url": "http://api.wpsseo.cn/?v=",
-   "type": 0,
-   "ext": {
-    "flag": [
-     "qiyi",
-     "imgo",
-     "爱奇艺",
-     "奇艺",
-     "qq",
-     "腾讯",
-     "youku",
-     "优酷",
-     "pptv",
-     "PPTV",
-     "letv",
-     "乐视",
-     "leshi",
-     "bilibili",
-     "哔哩哔哩",
-     "哔哩",
-     "mgtv",
-     "芒果",
-     "sohu",
-     "xigua",
-     "fun",
-     "风行"
-    ],
-    "header": {
-     "User-Agent": "Mozilla/5.0"
-    }
-   },
-   "header": {
-    "User-Agent": "Mozilla/5.0"
    }
   },
   {
@@ -6427,11 +5558,6 @@
    }
   },
   {
-   "name": "剖云",
-   "type": 0,
-   "url": "https://www.pouyun.com/?url="
-  },
-  {
    "name": "虾米2",
    "url": "https://jx.xmflv.cc/?url=",
    "type": 0,
@@ -6530,11 +5656,6 @@
    "url": "https://www.nfjx.xyz/home/api?type=ys&uid=5767995&key=ijkmovxDEHIJPQRW69&url="
   },
   {
-   "name": "风起兖州",
-   "type": 0,
-   "url": "http://jx.gbxy.net.cn/?url="
-  },
-  {
    "name": "A6",
    "type": 0,
    "url": "https://pl.a6club.com/player/analysis.php?v="
@@ -6607,38 +5728,6 @@
    "name": "能解",
    "type": 1,
    "url": "http://jx.vipmv.co/json.php?token=123457&url=",
-   "ext": {
-    "flag": [
-     "rx",
-     "ltnb",
-     "renrenmi",
-     "rongxing",
-     "bilibili",
-     "哔哩哔哩",
-     "哔哩",
-     "youku",
-     "优酷",
-     "qiyi",
-     "爱奇艺",
-     "奇艺",
-     "qq",
-     "腾讯",
-     "mgtv",
-     "芒果",
-     "sohu",
-     "搜狐",
-     "letv",
-     "乐视",
-     "xigua",
-     "CL4K",
-     "西瓜"
-    ]
-   }
-  },
-  {
-   "name": "直解",
-   "type": 1,
-   "url": "http://rxjx.kuanjv.com/allm3u8.php?url=",
    "ext": {
     "flag": [
      "rx",
@@ -6828,16 +5917,6 @@
    "name": "xy4k",
    "type": 1,
    "url": "https://183933.xyz/xiaye.php?url="
-  },
-  {
-   "name": "腾讯专用",
-   "type": 1,
-   "url": "https://api.8l2.cn/lib/?key=5c9905a3dc0bef77647d1bb4a1d319ad&url=",
-   "ext": {
-    "flag": [
-     "qq"
-    ]
-   }
   },
   {
    "name": "🐱0号",
@@ -7073,11 +6152,6 @@
      "User-Agent": "okhttp/4.1.0"
     }
    }
-  },
-  {
-   "name": "💕分享者嗅探*",
-   "type": 0,
-   "url": "http://154.44.26.196/player/qu.php?v="
   },
   {
    "name": "思古3",
