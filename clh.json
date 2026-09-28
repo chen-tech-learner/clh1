@@ -2,17 +2,6 @@
  "spider": "https://gh-proxy.org/raw.githubusercontent.com/chen-tech-learner/clh1/main/o.jar",
  "sites": [
   {
-   "key": "naixiang",
-   "name": "🎬全网｜影视点播🎬1",
-   "type": 1,
-   "api": "https://naixxzy.com/api.php/provide/vod/at/json",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "group": "采集站",
-   "_origin": "feishu-sync"
-  },
-  {
    "key": "didi",
    "name": "🎬全网｜影视点播🎬2",
    "type": 1,
